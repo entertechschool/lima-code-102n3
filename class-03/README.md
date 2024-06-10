@@ -1,7 +1,7 @@
 # Versionamiento Local y Remoto
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/M7XlkmZcLBeyU-4hvAopalt6TrRdjyY-zua9Uoe3ij2GJw-QoOe9E0vMXOrqpVLd.mNJV16A41SQg0eC7?startTime=1717855991000)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
