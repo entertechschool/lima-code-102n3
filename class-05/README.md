@@ -2,7 +2,7 @@
 
 ## Grabaciones de la clase
 - [Link de zoom](https://us06web.zoom.us/rec/share/L2RldV8D5l_O0iyp6goa5eD_KAptVkirmzeup6vNzmDFCEBE19cxMSh8elbONzd1.K2d0m3PFHM9MpjxS)
-- Código de acceso: &1i@azHt
+- Código de acceso: `&1i@azHt`
 
 ## Objetivos de aprendizaje
 
