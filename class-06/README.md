@@ -1,8 +1,8 @@
 # Páginas web dinámicas con JavaScript
 
 ## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
+- [Link de zoom](https://us06web.zoom.us/rec/share/ObLu6EL2sGA6yuts3i9VSUWv_vIT7cTxx2_fY9s2Gr1VLO_Jj8_4NPtkN03xo5zc.EV9u3l30u7ezBBMK)
+- Código de Acceso: `ece+5*B%`.
 
 ## Objetivos de aprendizaje
 
