@@ -1,8 +1,8 @@
 # Programación con JavaScript
 
 ## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
+- [Link de zoom](https://us06web.zoom.us/rec/share/CpFKy1ETktcS3N9bQPrkDqlGSXkvZOJ6U94RAKgdROcyBzpG-Tp6MkzhXBeL4Yn5.DuqkE1YHreIavFeL) 
+- Código de Acceso: `nH7Rq?X8`.
 
 ## Objetivos de aprendizaje
 
