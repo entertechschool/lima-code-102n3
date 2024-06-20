@@ -1,8 +1,8 @@
 # Lógica y bucles informáticos
 
 ## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
+- [Link de zoom](https://us06web.zoom.us/rec/share/MCVRlcQzVzOU1JQGi937MPkknAFpf-PfX8XwBiz4csOmcC54WeBQrWGx2NZYx-NB.9T0DmWqduAsHlWIx)
+- Código de Acceso: `2B!028vT`.
 
 ## Objetivos de aprendizaje
 
